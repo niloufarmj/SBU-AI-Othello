@@ -1,14 +1,19 @@
 <h2 align="center">othello game with Artificial Intelligence</h2>
 
-This game was implemented with java and javafx. The MVC architecture is used.
+<p align="center">This game was implemented with java and javafx. The MVC architecture is used.</p>
+
 
 # game preview
 
-player vs. player: 
+player vs. player:
 
+https://user-images.githubusercontent.com/46811379/228182069-4156bfb8-12e2-4995-8b46-98d16ca85a24.mp4
+
+<br/>
 
 AI vs. player: 
 
+<br/>
 
 The project was developed in 3 main phases:
 # phase 1: 
