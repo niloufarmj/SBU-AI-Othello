@@ -1,6 +1,14 @@
-# othello game with Artificial Intelligence
+<h2 align="center">othello game with Artificial Intelligence</h2>
 
 This game was implemented with java and javafx. The MVC architecture is used.
+
+# game preview
+
+player vs. player: 
+
+
+AI vs. player: 
+
 
 The project was developed in 3 main phases:
 # phase 1: 
